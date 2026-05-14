@@ -8,8 +8,7 @@ It uses text preprocessing techniques such as:
 - Tokenization
 - Stopword Removal
 - Stemming
-- Bag of Words (BoW)
-- TF-IDF Vectorization
+- Vectorization
 
 Machine Learning algorithms are then applied to classify the sentiment of reviews.
 
